@@ -1,0 +1,37 @@
+/* img{
+    display: inline-block;
+} */
+*{
+  margin: 1.5px;
+}
+.st img{
+  display: flex;
+  width: 40rem;
+}
+.st{
+  display: inline-block;
+}
+.nd img{
+  display: inline-block;
+  width: 19.88rem;
+}
+.nd{
+  display: inline-block;
+  width: 50%;
+}
+.rd img{
+  height: 10rem;
+  display: inline-block;
+  width: 40rem;
+}
+.rd{
+  display: inline-block;
+}
+.th{
+  display: inline-block;
+}
+.th img{
+  height: 10rem;
+  display: inline-block;
+  width: 40rem;
+}
